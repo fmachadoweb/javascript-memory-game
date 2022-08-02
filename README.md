@@ -9,14 +9,14 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MEMORY GAME (THEME MINECRAFT) V 2.0</h3>
+  <h3 align="center">MEMORY GAME (JOGO DA MEMÓRIA) VERSÃO MINECRAFT REV 2.0</h3>
 
   <p align="center">
     <br />
     <a href="https://github.com/fmachadoweb/mariorunning"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://hardtek.com.br/memory/">View Demo</a>
+    <a href="https://hardtek.com.br/memory/">Demo</a>
     ·
     <a href="mailto:fernandomachadoweb@gmail.com">Bug report</a>
 
