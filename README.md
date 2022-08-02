@@ -55,7 +55,7 @@ Utility:
 <!-- RELASES NOTES -->
 ### RELASES NOTES
 
-* V2.0 - Added Buttom's of JUMP.
+* V2.0 - Added Buttom's of Restart Game and Back to login page.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
